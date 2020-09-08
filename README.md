@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there, 👋
+I'm Sachin Katageri
 
-<!--
-**sachinkatageri/sachinkatageri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on The Spark Foundation
 - 🌱 I’m currently learning Deep Learning
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...whatsapp
 - 😄 Pronouns: ...Meow Meow
 - ⚡ Fun fact: Hippie for Life
--->
