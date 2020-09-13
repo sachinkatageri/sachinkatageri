@@ -27,8 +27,8 @@
 👯looking to collaborate on Machine Learning projects
 💬 Ask me about Data analytics
 
-
-<p align="center"><b> I'd love to connect with different people. Send me 👋 i'll be happy to meet you.</b></p>
 <img align='right' src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<p align="center"><b> I'd love to connect with different people. Send me 👋 i'll be happy to meet you.</b></p>
 <img align='left' src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
