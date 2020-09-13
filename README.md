@@ -20,10 +20,10 @@
 - 🔭 **I’m currently working and exploring the areas of Computer Vision.**
 - 👯 **I’m looking to collaborate on opensource projects related to Computer Vision.**
 - 📫 **How to reach me, mail to: sachin.kumar.katageri@gmail.com**  
--💬 **Ask me about Data analytics**
+- 💬 **Ask me about Data analytics**
 - ⚡ **Fun fact: D010**
 
 
 <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'd love to connect with different people. Send me 👋 i'll be happy to meet you <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></b></p>
 
-<p align="center"><img src="https://media.tenor.com/images/f6f5fa25d11d037028188cef60f260e7/tenor.gif"></p>
+<p align="center"><img src="https://media.tenor.com/images/f6f5fa25d11d037028188cef60f260e7/tenor.gif" width="50"></p>
