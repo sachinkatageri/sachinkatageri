@@ -5,7 +5,7 @@
 
 
 
-<p align="center"><b> Intern @ The Spark Foundation</b></p>
+<p align="center"><b> eSpycons & The Spark Foundation</b></p>
 <p align="center"><b> Machine Learning Enthusiast.</b></p>
 <p align="center"><b>Seeking Machine(Deep) Learning Intern roles!!</b></p>
 
