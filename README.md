@@ -21,7 +21,7 @@
 - 👯 **I’m looking to collaborate on opensource projects related to Computer Vision.**
 - 📫 **How to reach me, mail to: sachin.kumar.katageri@gmail.com**  
 - 💬 **Ask me about Data analytics**
-- ⚡ **Fun fact: D010**
+- ⚡ **Fun fact: 3.65E24**
 
 
 <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'd love to connect with different people. Send me 👋 i'll be happy to meet you <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></b></p>
