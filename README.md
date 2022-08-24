@@ -3,10 +3,10 @@
 <h1 align="center">Hi Sachin Katageri here ...</h1>
 
 
-
-
-<p align="center"><b> MTE & The Spark Foundation</b></p>
-<p align="center"><b> Machine Learning Enthusiast.</b></p>
+<p align="center"><b>NuVeda Learning- UI UX Designer</b></p>
+<p align="center"><b>Superpilot Innovations- UX Develpoer</b></p>
+<p align="center"><b> MTE & The Spark Foundation-Jr.Data analyst</b></p>
+<p align="center"><b> MyTectra-Machine Learning Enthusiast.</b></p>
 <p align="center"><b>Seeking Machine(Deep) Learning Intern roles!!</b></p>
 
 
@@ -14,8 +14,8 @@
 [![Linkedin: sachinkatageri](https://img.shields.io/badge/-sachinkatageri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinkatageri/)](https://www.linkedin.com/in/sachinkatageri/)
 ![GitHub followers](https://img.shields.io/github/followers/sachinkatageri?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/sachinkatageri) 
 [![Years Badge](https://badges.pufler.dev/years/sachinkatageri)](https://badges.pufler.dev/years/sachinkatageri)
-[![Repos Badge](https://badges.pufler.dev/repos/sachinkatageri)](https://badges.pufler.dev/repos/sachinkatageir)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/sachinkatagerii)](https://badges.pufler.dev/commits/monthly/sachinkatageri)
+[![Repos Badge](https://badges.pufler.dev/repos/sachinkatageri)](https://badges.pufler.dev/repos/sachinkatageri)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/sachinkatageri)](https://badges.pufler.dev/commits/monthly/sachinkatageri)
 
 - 🔭 **I’m currently working and exploring the areas of UI UX - Ai -Computer Vision.**
 - 👯 **I’m looking to collaborate on opensource projects related to Computer Vision.**
