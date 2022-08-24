@@ -17,7 +17,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/sachinkatageri)](https://badges.pufler.dev/repos/sachinkatageir)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/sachinkatagerii)](https://badges.pufler.dev/commits/monthly/sachinkatageri)
 
-- 🔭 **I’m currently working and exploring the areas of Computer Vision.**
+- 🔭 **I’m currently working and exploring the areas of UI UX - Ai -Computer Vision.**
 - 👯 **I’m looking to collaborate on opensource projects related to Computer Vision.**
 - 📫 **How to reach me, mail to: sachin.kumar.katageri@gmail.com**  
 - 💬 **Ask me about Data analytics**
