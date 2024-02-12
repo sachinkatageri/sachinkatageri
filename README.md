@@ -1,27 +1,105 @@
-<img align='left' src="https://media2.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif?cid=ecf05e47f147f4e4ff7f9ded8ae4c6a48b1fc56bc150c3ec&rid=giphy.gif" width="100">
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="75">
-<h1 align="center">Hi Sachin Katageri here ...</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+</head>
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0;">
 
+  
 
-<p align="center"><b>NuVeda Learning- UI UX Designer</b></p>
-<p align="center"><b>Superpilot Innovations- UX Develpoer</b></p>
-<p align="center"><b> MTE & The Spark Foundation-Jr.Data analyst</b></p>
-<p align="center"><b> MyTectra-Machine Learning Enthusiast.</b></p>
-<p align="center"><b>Seeking Machine(Deep) Learning Intern roles!!</b></p>
+  <header>
+    <h1>Sachin Katageri</h1>
+    <p>Product Designer - UI/UX</p>
+  </header>
 
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I'm a seasoned UI/UX enthusiast, merging creativity with analytical thinking to craft user-friendly designs. Passionate about collaboration and turning complex ideas into engaging digital experiences.</p>
+  </section>
 
-[![Whatsapp: sachinkatageri](https://img.shields.io/badge/-sachinkatageri-%2325D366.svg?&flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+919632818041)](https://wa.me/+919632818041)
-[![Linkedin: sachinkatageri](https://img.shields.io/badge/-sachinkatageri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinkatageri/)](https://www.linkedin.com/in/sachinkatageri/)
-![GitHub followers](https://img.shields.io/github/followers/sachinkatageri?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/sachinkatageri)
+  <section id="education">
+    <h2>Education</h2>
+    <p>B.E in Mechanical Engineering<br>Navodaya Institute Of Technology, Raichur, Karnataka - 2020</p>
+  </section>
 
-- 🔭 **I’m currently working and exploring the areas of UI UX - Ai -Computer Vision.**
-- 👯 **I’m looking to collaborate on opensource projects related to Computer Vision.**
-- 📫 **How to reach me, mail to: sachin.kumar.katageri@gmail.com**  
-- 💬 **Ask me about Data analytics**
-- ⚡ **Fun fact: 3.65E24**
+  <section id="experience">
+    <h2>Professional Experience</h2>
+    <ul>
+      <li>
+        <strong>SR. UI/UX DESIGNER,</strong> NuVeda Learning | Bengaluru, IN - July 2022 - Present<br>
+        Develop high-level and detailed wireframes, low- and high-fidelity mockups, detailed micro-interaction matrices, and prototypes to effectively communicate interaction and design ideas, journey maps, personas, wireframes, prototypes, and flowcharts.<br>
+        Work closely with the various stakeholders to define the user experience.Quality control of the delivered modules.WordPress CMS development.
+      </li>
+      <li>
+        <strong>UX DEVELOPER,</strong> SUPERPILOT Pvt Ltd | Bengaluru, IN - June 2021 - June 2022<br>
+        Evaluate the usability of existing flows and recommend thoughtful design changes when appropriate.Build strong relationships and operating rhythms to efficiently implement user experiences that are cohesive, inclusive, and well-informed.
+      </li>
+      <li>
+        <strong>PRODUCT DESIGN ENGINEER,</strong> Upwork | Freelancer - March 2019 - March 2022
+      </li>
+      <li>
+        <strong>WEB DESIGNER,</strong> The Sparks Foundation | Freelancer - March 2020 - March 2021
+      </li>
+      <li>
+        <strong>JR. PROJECT ENGINEER,</strong> Espycons Software Solutions | Bengaluru, IN - March 2019 - March 2020
+      </li>
+    </ul>
+  </section>
 
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>User Interface Design (UI)</li>
+      <li>User Experience Design (UXD)</li>
+      <li>Design Thinking</li>
+      <li>Usability</li>
+      <li>Visual Design</li>
+      <li>User Research</li>
+      <li>Web Development</li>
+      <li>Graphic Design</li>
+      <li>Video Editing</li>
+      <li>WordPress</li>
+      <li>Figma, Adobe XD, Invision Proto.io</li>
+      <li>HTML, CSS, Python, JavaScript, Flutter</li>
+    </ul>
+  </section>
 
-<p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'd love to connect with different people. Send me 👋 i'll be happy to meet you <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></b></p>
+  <section id="soft-skills">
+    <h2>Soft Skills</h2>
+    <ul>
+      <li>Creative Thinking</li>
+      <li>Time Management</li>
+      <li>Problem-Solving</li>
+      <li>Collaboration</li>
+      <li>Patience</li>
+      <li>Detail-Oriented</li>
+      <li>Negotiation Skills</li>
+    </ul>
+  </section>
 
-<p align="center"><img src="https://media.tenor.com/images/f6f5fa25d11d037028188cef60f260e7/tenor.gif" width="50"></p>
+  <section id="languages">
+    <h2>Languages</h2>
+    <ul>
+      <li>Hindi</li>
+      <li>English</li>
+      <li>Kannada</li>
+      <li>Telugu</li>
+    </ul>
+  </section>
 
+  <section id="awards">
+    <h2>Awards and Recognition</h2>
+    <p>BEST TEAM PLAYER, NuVeda Learning | Bengaluru, IN - 2022-2023</p>
+  </section>
+
+  <footer>
+    <h2>Contact</h2>
+    <p>Email: sachin.kumar.katageri@gmail.com<br>
+    Website: <a href="https://sachinkatageri.github.io">sachinkatageri.github.io</a><br>
+    Location: Raichur, Karnataka, IN<br>
+    Phone: +91-963-281-8041</p>
+  </footer>
+</body>
+</html>
